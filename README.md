@@ -10,6 +10,6 @@
 
 | 분류  | 기능 | 진척도         |
 | :------------ | :-----------: | -------------------: |
-| First row     | Data          | Very long data entry |
-| Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  ||
+| 회원가입    | ..          | .. |
+| 업무2    | ..      | ..           |
+| 업무3     | ..  |..|
